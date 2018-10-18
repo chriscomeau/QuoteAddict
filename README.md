@@ -17,7 +17,7 @@ Quote Addict for iOS
 
 * [GitHub project](https://github.com/chriscomeau/QuoteAddict)
 * [Web](http://quoteaddict.com/)
-* [App Store](https://itunes.apple.com/app/id557949358)
+* [App Store](https://itunes.apple.com/app/id580936901)
 
 ##### Screenshots
 
