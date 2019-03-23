@@ -25,4 +25,5 @@ Quote Addict for iOS
 ![screenshot 2](http://www.quoteaddict.com/screenshots/screenshot2.png)
 ![screenshot 3](http://www.quoteaddict.com/screenshots/screenshot3.png)
 ![screenshot 4](http://www.quoteaddict.com/screenshots/screenshot4.png)
+![screenshot 5](http://www.quoteaddict.com/screenshots/screenshot5.png)
 
